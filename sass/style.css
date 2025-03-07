@@ -89,7 +89,7 @@ a {
   color: #173A56;
 }
 
-@media (max-width: 430px) {
+@media (max-width: 530px) {
   .navbar .nav-list {
     display: none;
   }
@@ -216,7 +216,7 @@ a {
   font-size: 18px;
   font-weight: 400;
 }
-@media (max-width: 430px) {
+@media (max-width: 530px) {
   .product-foot .foot-home {
     display: flex;
     flex-direction: column;
@@ -373,7 +373,7 @@ body {
   border-bottom: 1px solid;
   color: #02897A;
 }
-@media (max-width: 430px) {
+@media (max-width: 530px) {
   .product .product-home {
     display: flex;
     flex-direction: column;
@@ -488,7 +488,7 @@ body {
   line-height: 26px;
   width: 240px;
 }
-@media (max-width: 430px) {
+@media (max-width: 530px) {
   .built .built-home .product-title {
     font-size: 32px;
     text-align: center;
@@ -593,7 +593,7 @@ body {
   width: 100%;
   height: 100%;
 }
-@media (max-width: 430px) {
+@media (max-width: 530px) {
   .management .management-home {
     display: flex;
     flex-direction: column;
@@ -681,7 +681,7 @@ body {
   font-weight: 400;
   width: 365px;
 }
-@media (max-width: 430px) {
+@media (max-width: 530px) {
   .support .support-home {
     display: flex;
     flex-direction: column;
@@ -723,7 +723,7 @@ body {
   width: 100%;
   height: 100%;
 }
-@media (max-width: 430px) {
+@media (max-width: 530px) {
   .collaborative .collaborative-home .collaborative-img {
     width: 350px;
     height: 291px;
@@ -842,7 +842,7 @@ body {
   border: 1px solid #BCD0E5;
   color: #173A56;
 }
-@media (max-width: 430px) {
+@media (max-width: 530px) {
   .quick .quick-home {
     padding: 50px 0px;
   }
@@ -962,7 +962,7 @@ body {
   line-height: 40px;
   color: #22343D;
 }
-@media (max-width: 430px) {
+@media (max-width: 530px) {
   .contents .contents-home {
     display: flex;
     flex-direction: column;
@@ -1131,7 +1131,7 @@ body {
   font-weight: 500;
   color: #22343D;
 }
-@media (max-width: 430px) {
+@media (max-width: 530px) {
   .table .table-home {
     display: flex;
     flex-direction: column;
@@ -1243,7 +1243,7 @@ body {
   font-size: 14px;
   font-weight: 500;
 }
-@media (max-width: 430px) {
+@media (max-width: 530px) {
   .clients .clients-home {
     display: flex;
     flex-direction: column;
@@ -1317,7 +1317,7 @@ body {
   width: 100%;
   height: 100%;
 }
-@media (max-width: 430px) {
+@media (max-width: 530px) {
   .business .business-home {
     width: 371px;
     display: flex;
